@@ -25,7 +25,7 @@ college placement data.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Power%20BI%20project.jpg)
 
 ## 📈 Key Insights
 - Placement statistics across branches
